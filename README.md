@@ -1,4 +1,4 @@
-# Hit and run trading
+# HIT AND RUN TRADING
 All strategy ideas in this code have been taken from the book hit and run trading by Jeff copper.
 
 It combines 9 strategies in one which essentially one can plug and play.
